@@ -1,0 +1,16 @@
+dateTime
+barometer
+pressure
+altimeter
+inTemp
+outTemp
+inHumidity
+outHumidity
+windSpeed
+windDir
+windGustDir
+rainRate
+rain
+dewpoint
+windchill
+heatindex
